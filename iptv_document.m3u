@@ -1,0 +1,12 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5jbMqrJUKJ0-7_J8JQCtOj4VFDo__7LlLiw&usqp=CAU",สำรวจโลก
+https://goal-th.com/ช่องรายการทีวี/?id=292&tv=สำรวจโลก
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://static.thaicom.io/chbig/big_292_20240122031500.png",DOXZILLA
+https://edge16.thaicom.io/v3/td/Doxzilla/playlist.m3u8?uuid=3bb3cda3-9f33-47bf-a6f&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1dWlkIjoiM2JiM2NkYTMtOWYzMy00N2JmLWE2ZiIsImV4cCI6MTczNDU4NDc4MywiaWF0IjoxNzM0NTc3NTgzLCJxdWFsaXR5IjoiQTEiLCJuYmYiOjE3MzQ1Nzc1ODMsImNoYW5uZWwiOiJEb3h6aWxsYSJ9.SI6foTZ7mvbe0J7tp3rLcLipemswnFRmx-9x5VED41U
+#EXTINF:-1 tvg-id="สำรวจโลก.th" tvg-name="สำรวจโลก" group-title="General" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",MYSCI
+https://goal-th.com/ช่องรายการทีวี/?id=293&tv=MySci
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="DOXZILLA" tvg-name="MVTV ท้องถิ่นไทย" group-title="Digital TV" tvg-logo="https://static.thaicom.io/chbig/big_292_20240122031500.png",DOXZILLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://cdn-icons-png.flaticon.com/512/164/164596.png",
+"url": "https://vlb.thaicom.io/v2/Doxzilla/playlist.m3u8?uuid=3bb3cda3-9f33-47bf-a6f
