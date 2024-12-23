@@ -1,0 +1,132 @@
+{
+"name": "ทีวี ออนไลน์",
+"author": "ทีวี",
+"url": "https://pastebin.com/PYXtYAgk",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",
+"groups":  [
+{
+"name": "3 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/59592e08bf6aee4e3ecce051/ed859775040e2010be09da8a4455836c/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "ONE 31 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5a1685baaae731375f0eb728/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "CH7 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5abdd28daae73161cb8ef446/ed859775040e2010be09da8a4455836c/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "MONO",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/60811938fa3813c616f38b63/ed859775040e2010be09da8a4455836c/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "Thairath TV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/60bd9c7b497960d3f9a3e222/ed859775040e2010be09da8a4455836c/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "Workpoint TV",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+"url": "https://pastebin.com/AJbYD3Tb/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "AmarinTV HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5b335b61bf6aee16d8c33382/ed859775040e2010be09da8a4455836c/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "สำรวจโลก",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png",
+"url": "https://pastebin.com/AJbYD3Tb",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "MYSCI",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",
+"url": "https://pastebin.com/1XNv0CT7",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "MCOT HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5efec3f10f6d9dc4b26c6e77/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "FW COMEDY",
+"image": "https://img5.pic.in.th/file/secure-sv1/images-removebg-preview-1.png",
+"url": "https://pastebin.com/wgr7NDcN",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "สยาม นิว TV",
+"image": "https://www.muanchononlinenews.com/wp-content/uploads/2022/09/521978-400x400.jpg",
+"url": "https://pastebin.com/eUg08R2S",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "TPBS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/6378ef895b10cf050fd01614/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "JKN 18",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/637b3a816d6b13ecd5676af4/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "NBT 2 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5f9e908c12008d9caab3cf3b/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "TNN",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/59671d1cd817de1df19711a6/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "CH5 HD",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/5b335ab3d817de6d62889a6b/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "T-Sports7",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+"url": "http://idooxtream.streaming-fast.com/idooxtreamwiseplay/627a27b26dbfe345cfc8a27f/6e9db1935947817de0d441dec2224aac/series5_allep.w3u",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "VTV News",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/VTVNews.png",
+"url": "https://pastebin.com/euRyjNkP",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "ของดี ปทท",
+"image": "https://static.thaicom.io/chbig/big_295.png",
+"url": "https://pastebin.com/edit/dFRLANy0",
+"referer": "https://aisplay.ais.co.th/"
+},
+{
+"name": "รวททีวี",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/ALTV.PNG",
+"url": "https://pastebin.com/QnRNmPqA",
+"referer": "https://aisplay.ais.co.th/"
+}]},
