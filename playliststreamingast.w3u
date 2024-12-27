@@ -1,0 +1,65 @@
+{
+  "name": "Playliststreaming",
+  "author": "Djtonor",
+  "image": "https://iili.io/2e1bdOJ.jpg",
+  "url": "",
+  "groups": [
+    {
+      "name": "PLAYDID tv",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://dl.dropboxusercontent.com/s/nofpsj2gfkibwhh/Listaswiseplay.com.w3u",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "xtu tv",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://box.xtemus.com/?playlist=u256y4a4s21596x2",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "SOPHONWIT TV",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://raw.githubusercontent.com/Soponwit19997/IPTV/refs/heads/main/Digital_TV.m3u",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "AKKRADET TV",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "ลักดู",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://yamcode.com/raw/wiseplay-url",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "กูฟิกนะกูฟิกนะ",
+      "image": "https://cdn.pixabay.com/animation/2022/08/02/02/50/02-50-05-754__480.png",
+      "url": "https://pastebin.com/hWjJbvuX",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    {
+      "name": "Extumus",
+      "image": "https://iili.io/2e1bdOJ.jpg",
+      "url": "https://iptv.xtemus.com/?user=akin230",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/69.0.3497.100 Safari/537.36",
+      "webviewType": "chrome",
+      "embred": "true"
+    },
+    null
+  ]
+}
